@@ -1,0 +1,15 @@
+1. Describe the "kernel".
+2. What are the three main purposes of an operating system?
+3. Give two reasons why caches are useful.
+4. Name and describe three kernel data structures.
+5. Describe the difference between policy and mechanism.
+6. Describe both Asymmetric and Symmetric Multiprocessing.
+7. What is the main advantage and disadvantages of the layered approach to system design?
+8. Describe a micro-kernel operating system structure.
+9. List five services provided by an operating system, and explain how each creates convenience for users.
+10.Using Unix/POSIX operating system calls, write a command line statement that merges together two files into a new file, where the contents of the first file are concatenated with the contents of the second. These files do not have to "mesh".
+11.How are course grades determined?
+12.Describe what the Final Exam does.
+13.Which language must all programming assignments be written?
+14.When must a regrade request occur?
+15.True or False. It is acceptable to work in groups on homework assignments. 

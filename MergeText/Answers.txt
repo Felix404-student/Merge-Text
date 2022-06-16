@@ -1,0 +1,15 @@
+The kernel is a foundational part of the OS that manages the connections and access to the physical parts of the computer — CPU, I/O devices, memory, peripherals — on behalf of the OS, separate from direct user control.
+Operating Systems are in charge of executing user programs, making the computer system convenient to use for the user, and managing the computer hardware in an efficient manner.
+Caches are useful for faster retrieval of data and instructions than accessing main memory, so they both improve processing speed while keeping costs down relative to speeding up the whole hard drive. 
+Linked lists store chunks of data in a linear order, with each chunk containing a link to the next chunk. Binary search trees store numerical data sorted based on value to minimize search time. Hashmaps store data in one group, with each piece of data having a unique key to eliminate search processing time.
+Policy is a goal, the thing that needs to be achieved, while mechanism is the system or process which will be implemented to achieve that goal.
+In Asymmetric multiprocessing, the Master processor performs OS tasks and sends other tasks to the slave processors, which do not communicate with each other. In Symmetric multiprocessing, all processors are equal, communicate, and share memory, and tasks all come from a queue by any ready processor.
+A layered system is easier to build and debug, as you can narrow bugs down rapidly to a single layer, and can fix or change individual parts easily, but trade that for less efficient performance.
+Microkernels move most operations into the user space instead of the kernel. Communication takes place between user modules using message passing.
+The OS provides a UI so that the user can more easily use the computer instead of learning binary. The OS installs and runs programs, which lets a user work on multiple different things simultaneously and use software developed by others. An OS detects and handles errors so that if something goes wrong, the whole computer isn't instantly bricked. An OS handles I/O operations so that a user can use peripherals like a keyboard, mouse, speakers and disk drive. An OS provides security to prevent unauthorized access to the user's data.
+cat file1 file2 > newfile
+Averaged grade of the 4 homeworks, following the University grade scale.
+The Final is optional, but can replace the lowest HW grade.
+Java
+Within 1 week of the initial grading.
+False
